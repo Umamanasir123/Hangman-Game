@@ -1,0 +1,5 @@
+
+SAMAD     10
+HAMZA     12
+TALHA     15
+TALHA     24
